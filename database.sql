@@ -1,5 +1,5 @@
-CREATE DATABASE shopapp;
-USE shopapp;
+CREATE DATABASE ejewlry;
+USE ejewlry;
 
 CREATE TABLE users(
     id INT PRIMARY KEY AUTO_INCREMENT,
